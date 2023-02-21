@@ -13,7 +13,7 @@
 
 **Trabajo en equipo:** el trabajo en equipo es fundamental para nosotros. Los desarrolladores y otros miembros debemos colaborar para lograr objetivos comunes y alcanzar el éxito.
 
-**Orientación al cliente: **Debemos enfocarnos en satisfacer las necesidades del cliente, proporcionando soluciones personalizadas y adaptadas a sus necesidades.
+**Orientación al cliente:**  Debemos enfocarnos en satisfacer las necesidades del cliente, proporcionando soluciones personalizadas y adaptadas a sus necesidades.
 
 **Ética**: Debemos cumplir con todas las normas y regulaciones, y ser transparentes en nuestras prácticas.
 
