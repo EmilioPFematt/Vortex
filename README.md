@@ -1,4 +1,9 @@
-# Vortex
+
+![Logo Vortex](https://raw.githubusercontent.com/EmilioPFematt/Vortex/main/Img/logo.png)
+
+
+## PALETA DE COLORES
+![Paleta Colores Vortex](https://raw.githubusercontent.com/EmilioPFematt/Vortex/main/Img/paleta.jpg)
 
 ## VISIÓN
 "Crear un mundo en el que la tecnología móvil y de realidad aumentada se integre a la perfección en nuestra vida cotidiana, potenciando las capacidades humanas, mejorando la productividad y transformando nuestra forma de aprender, trabajar y jugar."
